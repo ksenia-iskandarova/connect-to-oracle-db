@@ -1,0 +1,14 @@
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\obj\x86\Debug\ConnectToOracle.Form1.resources
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\obj\x86\Debug\ConnectToOracle.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\bin\Debug\oci.dll
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\bin\Debug\orannzsbb11.dll
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\bin\Debug\oraociei11.dll
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\bin\Debug\OraOps11w.dll
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\bin\Debug\ConnectToOracle.exe
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\bin\Debug\ConnectToOracle.pdb
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\obj\x86\Debug\ConnectToOracle.exe
+C:\Users\1\Documents\Visual Studio 2010\Projects\ConnectToOracle\ConnectToOracle\obj\x86\Debug\ConnectToOracle.pdb
